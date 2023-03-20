@@ -1,4 +1,3 @@
 <div align="center">
-  <h1>Image Apps</h1><sup>
-  <h2>Powerful apps all with your camera</h2></sup>
+  <h1>Image Apps<br><sup>Powerful apps thought the power of your camera</sup></h1>
 </div>
